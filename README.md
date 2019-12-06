@@ -6,7 +6,6 @@ Library | Application
 JADE | JADE (Java Agent Development Framework) is a software Framework fully implemented in the Java language. It simplifies the implementation of multi-agent systems through a middle-ware that complies with the FIPA specifications and through a set of graphical tools that support the debugging and deployment phases.
 
 > IDE Recommend : Eclipse
-___
 
 + Open the project in Eclipse IDE :
 + Add jar files to the project -> [Add JAR](https://stackoverflow.com/questions/3280353/how-to-import-a-jar-in-eclipse)
